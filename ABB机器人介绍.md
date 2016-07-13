@@ -32,7 +32,7 @@ RobotWare是ABB机器人应用软件的总称，包含五个系列：
 * FactoryWare
 
 ###伺服驱动系统
-![](./img_ABB/servo_system.png)
+![](https://github.com/zpfcaca/Robotimg_ABB/servo_system.png)
 
 
 ##几个概念
@@ -50,7 +50,7 @@ IRC5:第五代机器人控制器。
 ###组成
 主电源、计算机供电单元、计算机控制模块（计算机主体）、输入/输出板、Customer 
 connections(用户连接端口)、FlexPendant接口（示教盒接线端）、轴计算机板、驱动单元（机器人本体、外部轴）。
-![](./img_ABB/IRC5.png)
+![](https://github.com/zpfcaca/Robot/img_ABB/IRC5.png)
 A 操纵器（所示为普通型号）B1 IRC5 Control 
 Module，包含机器人系统的控制电子装置。
 B2 IRC5 Drive Module，包含机器人系统的电源电子装置。在 Single Cabinet Controller 中， Drive Module 包含在单机柜中。MultiMove 系统中有多个 Drive Module。
